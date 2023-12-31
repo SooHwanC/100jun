@@ -1,3 +1,4 @@
+package banbok;
 import java.util.Scanner;
 
 public class jun10952 {
